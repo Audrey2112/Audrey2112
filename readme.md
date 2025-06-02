@@ -1,27 +1,47 @@
-### Olá 👋
+👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Sou uma estudante de Análise e Desenvolvimento de Sistemas, e estou começando no mundo de programação!
+Meu nome é **Audrey!**
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+---
 
-<img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+> Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Tuiuti do Paraná**, apaixonada por **tecnologia**, **desenvolvimento** e **criatividade**.  
+>
+> **Gosto de aprender, criar e colocar a mão na massa. Meu foco está em transformar ideias em soluções práticas — com código, organização e criatividade.**
 
-```java
-class Audrey {
- String name = "Audrey Kochinski"
- String acknowledgements = "Estudante"
- int age = 18;
- String city = "Balsa Nova";
- String university = "Tuiuti";
- 
- while(learning) {
-   doStuff();
- }
-}
-```
+---
 
-## **Conhecimentos:**  
-![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php)
+> 💬 **Contato**  
+> 📧 Email: audreykochinski@gmail.com  
+> 💬 Discord: andyy_2106  
+
+---
+
+## 🚀 Minhas Habilidades
+
+### 💻 Linguagens de Programação
+- JavaScript *(em aprendizado)*
+- Java *(POO - acadêmico)*
+- C *(acadêmico)*
+
+### 🌐 Desenvolvimento Web
+- Estruturação de páginas com **HTML/CSS**
+- Interações básicas com **JavaScript**
+
+### 🛠️ Ferramentas & Plataformas
+- Git & GitHub
+- Trello
+- Jira
+- Canva
+
+### 🌍 Idiomas
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: B1  
+- 🇪🇸 Espanhol: C1   
+
+---
+
+😊 Se quiser colaborar em algo, trocar experiências ou apenas conversar sobre tecnologia, estou por aqui! 😊
+
 
 ## **GitHub Estatísticas**
 
