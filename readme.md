@@ -1,6 +1,6 @@
 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Meu nome é **Audrey** — ou Andyy, se preferir!
+Meu nome é **Audrey**!
 
 ---
 
