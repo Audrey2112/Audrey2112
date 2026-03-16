@@ -1,58 +1,144 @@
-👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+<div align="center">
 
-Meu nome é **Audrey**!
+```
+█████╗ ██╗   ██╗██████╗ ██████╗ ███████╗██╗   ██╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝╚██╗ ██╔╝
+███████║██║   ██║██║  ██║██████╔╝█████╗   ╚████╔╝ 
+██╔══██║██║   ██║██║  ██║██╔══██╗██╔══╝    ╚██╔╝  
+██║  ██║╚██████╔╝██████╔╝██║  ██║███████╗   ██║   
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝  
+```
+
+**`> Iniciando conexão segura...`**  
+**`> Carregando perfil: Audrey Kochinski`**  
+**`> Status: ONLINE ✔`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%8E%93;Desenvolvedora+em+evolução+%F0%9F%9A%80;Apaixonada+por+automações+%F0%9F%A4%96;Transformando+ideias+em+código+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-> Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Tuiuti do Paraná**, apaixonada por **tecnologia**, **desenvolvimento** e **criatividade**.  
->
-> **Gosto de aprender, criar e colocar a mão na massa. Meu foco está em transformar ideias em soluções práticas — com código, organização e criatividade.**
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## `> whoami`
+
+```bash
+$ cat audrey.json
+```
+```json
+{
+  "nome": "Audrey Kochinski",
+  "localização": "Curitiba, PR 🌲",
+  "educação": "ADS @ Universidade Tuiuti do Paraná",
+  "status": "Estudante & Dev em formação",
+  "foco": ["automações", "web", "mobile"],
+  "filosofia": "Transformar ideias em soluções práticas",
+  "disponível_para": "Colaborações, projetos e troca de experiências"
+}
+```
+
+<br clear="right"/>
 
 ---
 
-> 💬 **Contato**  
-> 📧 Email: audreykochinski@gmail.com  
-> 💬 Discord: andyy_2106  
+## `> cat habilidades.sh`
 
----
+### 💻 Linguagens
 
-## 🚀 Minhas Habilidades
+<div align="left">
 
-### 💻 Linguagens de Programação
-- JavaScript *(em aprendizado)*
-- Java *(POO - acadêmico)*
-- C *(acadêmico)*
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=9D4EDD)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=9D4EDD)
+![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=9D4EDD)
+![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=for-the-badge&logo=dart&logoColor=9D4EDD)
 
-### 🌐 Desenvolvimento Web
-- Estruturação de páginas com **HTML/CSS**
-- Interações básicas com **JavaScript**
+</div>
+
+### 🌐 Desenvolvimento Web & Mobile
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=9D4EDD)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=9D4EDD)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=9D4EDD)
+
+</div>
+
+### ⚡ Automações & Banco de Dados
+
+<div align="left">
+
+![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=for-the-badge&logo=n8n&logoColor=9D4EDD)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=9D4EDD)
+
+</div>
+
+> **n8n** — Criação e gerenciamento de fluxos de automação, integrações entre sistemas e workflows  
+> **Supabase** — Banco de dados relacional na nuvem, autenticação e APIs em tempo real
 
 ### 🛠️ Ferramentas & Plataformas
-- Git & GitHub
-- Trello
-- Jira
-- Canva
 
-### 🌍 Idiomas
-- 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: B1  
-- 🇪🇸 Espanhol: C1   
+<div align="left">
+
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9D4EDD)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=9D4EDD)
+![Jira](https://img.shields.io/badge/Jira-1a1a2e?style=for-the-badge&logo=jira&logoColor=9D4EDD)
+![Trello](https://img.shields.io/badge/Trello-1a1a2e?style=for-the-badge&logo=trello&logoColor=9D4EDD)
+![Canva](https://img.shields.io/badge/Canva-1a1a2e?style=for-the-badge&logo=canva&logoColor=9D4EDD)
+
+</div>
 
 ---
 
-😊 Se quiser colaborar em algo, trocar experiências ou apenas conversar sobre tecnologia, estou por aqui! 😊
+## `> ls idiomas/`
 
+| Idioma | Nível | Barra |
+|--------|-------|-------|
+| 🇧🇷 Português | Nativo | `████████████ 100%` |
+| 🇪🇸 Espanhol | C1 — Avançado | `██████████░░ 85%` |
+| 🇺🇸 Inglês | B1 — Intermediário | `███████░░░░░ 60%` |
 
-## **GitHub Estatísticas**
+---
+
+## `> ./stats.sh`
+
+<div align="center">
 
 <a href="https://github.com/Audrey2112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey2112&theme=dracula&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Audrey2112&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9b8ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey2112&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9D4EDD&text_color=c9b8ff"/>
 </a>
 
-<a href="https://github.com/Audrey2112">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Audrey2112&show_icons=true&theme=dracula&line_height=27" alt="Audrey2112 github stats"/>
-</a>
-<br>
+<br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Audrey2112&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD)](https://git.io/streak-stats)
 
+</div>
 
+---
+
+## `> contact --list`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/audreykochinski%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=9D4EDD)](mailto:audreykochinski@gmail.com)
+[![GitHub](https://img.shields.io/badge/Audrey2112-1a1a2e?style=for-the-badge&logo=github&logoColor=9D4EDD)](https://github.com/Audrey2112)
+[![Discord](https://img.shields.io/badge/andyy__2106-1a1a2e?style=for-the-badge&logo=discord&logoColor=9D4EDD)](https://discord.com/users/andyy_2106)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  Se quiser colaborar, trocar ideia ou só dar um oi  ║
+║              — estou sempre por aqui! 👾             ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Visitors](https://komarev.com/ghpvc/?username=Audrey2112&color=9D4EDD&style=flat-square&label=Visitantes)
+
+</div>
