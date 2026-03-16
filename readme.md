@@ -1,44 +1,22 @@
 <div align="center">
 
-```
-█████╗ ██╗   ██╗██████╗ ██████╗ ███████╗██╗   ██╗
-██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝╚██╗ ██╔╝
-███████║██║   ██║██║  ██║██████╔╝█████╗   ╚████╔╝ 
-██╔══██║██║   ██║██║  ██║██╔══██╗██╔══╝    ╚██╔╝  
-██║  ██║╚██████╔╝██████╔╝██║  ██║███████╗   ██║   
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝  
-```
+👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-**`> Iniciando conexão segura...`**  
-**`> Carregando perfil: Audrey Kochinski`**  
-**`> Status: ONLINE ✔`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%F0%9F%8E%93;Desenvolvedora+em+evolução+%F0%9F%9A%80;Apaixonada+por+automações+%F0%9F%A4%96;Transformando+ideias+em+código+%F0%9F%92%BB)](https://git.io/typing-svg)
+Meu nome é **Audrey**!
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+> Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Tuiuti do Paraná**, apaixonada por **tecnologia**, **desenvolvimento** e **criatividade**.
+>
+> **Gosto de aprender, criar e colocar a mão na massa. Meu foco está em transformar ideias em soluções práticas — com código, organização e criatividade.**
 
-## `> whoami`
+---
 
-```bash
-$ cat audrey.json
-```
-```json
-{
-  "nome": "Audrey Kochinski",
-  "localização": "Curitiba, PR 🌲",
-  "educação": "ADS @ Universidade Tuiuti do Paraná",
-  "status": "Estudante & Dev em formação",
-  "foco": ["automações", "web", "mobile"],
-  "filosofia": "Transformar ideias em soluções práticas",
-  "disponível_para": "Colaborações, projetos e troca de experiências"
-}
-```
-
-<br clear="right"/>
+> 💬 **Contato**  
+> 📧 Email: audreykochinski@gmail.com  
+> 💬 Discord: andyy_2106
 
 ---
 
@@ -118,26 +96,13 @@ $ cat audrey.json
 
 ---
 
-## `> contact --list`
+😊 Se quiser colaborar em algo, trocar experiências ou apenas conversar sobre tecnologia, estou por aqui! 😊
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/audreykochinski%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=9D4EDD)](mailto:audreykochinski@gmail.com)
 [![GitHub](https://img.shields.io/badge/Audrey2112-1a1a2e?style=for-the-badge&logo=github&logoColor=9D4EDD)](https://github.com/Audrey2112)
 [![Discord](https://img.shields.io/badge/andyy__2106-1a1a2e?style=for-the-badge&logo=discord&logoColor=9D4EDD)](https://discord.com/users/andyy_2106)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  Se quiser colaborar, trocar ideia ou só dar um oi  ║
-║              — estou sempre por aqui! 👾             ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ![Visitors](https://komarev.com/ghpvc/?username=Audrey2112&color=9D4EDD&style=flat-square&label=Visitantes)
 
