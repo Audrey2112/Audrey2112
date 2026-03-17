@@ -79,23 +79,6 @@ Meu nome é **Audrey**!
 
 ---
 
-## `> ./stats.sh`
-
-<div align="center">
-
-<a href="https://github.com/Audrey2112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Audrey2112&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9b8ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey2112&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9D4EDD&text_color=c9b8ff"/>
-</a>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Audrey2112&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=9D4EDD&fire=C77DFF&currStreakLabel=9D4EDD)](https://git.io/streak-stats)
-
-</div>
-
----
-
 😊 Se quiser colaborar em algo, trocar experiências ou apenas conversar sobre tecnologia, estou por aqui! 😊
 
 <div align="center">
