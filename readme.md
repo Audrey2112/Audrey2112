@@ -10,11 +10,11 @@ Meu nome é **Audrey**!
 
 > Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Tuiuti do Paraná**, apaixonada por **tecnologia**, **desenvolvimento** e **criatividade**.
 >
-> **Gosto de aprender, criar e colocar a mão na massa. Meu foco está em transformar ideias em soluções práticas — com código, organização e criatividade.**
+> **Gosto de aprender, criar e colocar a mão na massa. Meu foco está em transformar ideias em soluções práticas - com código, organização e criatividade.**
 
 ---
 
-> 💬 **Contato**  
+> 💬 **Contato:**  
 > 📧 Email: audreykochinski@gmail.com  
 > 💬 Discord: andyy_2106
 
@@ -22,7 +22,7 @@ Meu nome é **Audrey**!
 
 ## `> cat habilidades.sh`
 
-### 💻 Linguagens
+### 💻 Linguagens:
 
 <div align="left">
 
@@ -33,7 +33,7 @@ Meu nome é **Audrey**!
 
 </div>
 
-### 🌐 Desenvolvimento Web & Mobile
+### 🌐 Desenvolvimento Web & Mobile:
 
 <div align="left">
 
@@ -43,7 +43,7 @@ Meu nome é **Audrey**!
 
 </div>
 
-### ⚡ Automações & Banco de Dados
+### ⚡ Automações & Banco de Dados:
 
 <div align="left">
 
@@ -55,7 +55,7 @@ Meu nome é **Audrey**!
 > **n8n** — Criação e gerenciamento de fluxos de automação, integrações entre sistemas e workflows  
 > **Supabase** — Banco de dados relacional na nuvem, autenticação e APIs em tempo real
 
-### 🛠️ Ferramentas & Plataformas
+### 🛠️ Ferramentas & Plataformas:
 
 <div align="left">
 
