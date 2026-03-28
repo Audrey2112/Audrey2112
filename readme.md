@@ -29,7 +29,6 @@ Meu nome é **Audrey**!
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=9D4EDD)
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=9D4EDD)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=9D4EDD)
-![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=for-the-badge&logo=dart&logoColor=9D4EDD)
 
 </div>
 
@@ -39,7 +38,6 @@ Meu nome é **Audrey**!
 
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=9D4EDD)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=9D4EDD)
-![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=9D4EDD)
 
 </div>
 
