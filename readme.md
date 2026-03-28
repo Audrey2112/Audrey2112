@@ -79,7 +79,7 @@ Meu nome é **Audrey**!
 
 ---
 
-😊 Se quiser colaborar em algo, trocar experiências ou apenas conversar sobre tecnologia, estou por aqui! 😊
+Se quiser colaborar em algo, trocar experiências ou apenas conversar sobre tecnologia, estou por aqui!
 
 <div align="center">
 
